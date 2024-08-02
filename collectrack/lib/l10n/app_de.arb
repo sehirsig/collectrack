@@ -1,0 +1,285 @@
+{
+    "language": "Deutsch",
+    "@language": {
+        "description": "Die momentane Sprache"
+    },
+    "navigation_home": "Home",
+    "@navigation_home": {
+        "description": "Navigation Bar Home text"
+    },
+    "navigation_collections": "Sammlungen",
+    "@navigation_collections": {
+        "description": "Navigation Bar Sammlungen text"
+    },
+    "navigation_settings": "Einstellungen",
+    "@navigation_settings": {
+        "description": "Navigation Bar Einstellungen text"
+    },
+    "home_welcomeText": "Willkommen zu CollecTrack!\nDie App für Sammler!",
+    "@home_welcomeText": {
+        "description": "Home Page Willkommensnachricht"
+    },
+    "home_helpText": "Für Hilfe, tippe auf Einstellungen und gehe auf \"Hilfe-Center\"",
+    "@home_helpText": {
+        "description": "Text, wie man zur Hilfe-Seite gelangt"
+    },
+    "home_appBarTitle": "CollecTrack",
+    "home_dailyObjectTitle": "Tägliches Objekt",
+    "home_dailyObjectText": "Klicken sie für ihr tägliches Objekt",
+    "home_favObjectTitle": "Favoriten Objekt",
+    "home_favObjectText": "Hier sehen sie eines ihrer Favoriten",
+
+    "collectionsList_appBarTitle": "Sammlungen",
+    "collectionsList_collectionName": "Name:",
+    "collectionsList_saveTitle": "Daten speichern",
+    "collectionsList_saveCloud": "Cloud",
+    "collectionsList_getLocal": "Importieren",
+    "collectionsList_saveLocal": "Exportieren",
+    "collectionsList_saveClose": "Abbrechen",
+    "collectionsList_filter": "Suchen ..",
+    "collectionsList_editTitle": "Sammlung bearbeiten",
+    "collectionsList_editEdit": "Bearbeiten",
+    "collectionsList_editDelete": "Löschen",
+    "collectionsList_deleteTitle": "Bestätigung",
+    "collectionsList_deleteText": "Wollen sie Diese Sammlung wirklich löschen?\nAlle Objekte werden gelöscht.",
+    "collectionsList_deleteYes": "Ja",
+    "collectionsList_deleteNo": "Abbrechen",
+    "collectionsList_backUpErrorTitle": "Fehler!",
+    "collectionsList_backUpErrorOk": "Ok",
+    "collectionsList_backUpErrorSame": "Sie müssen ct1.ct UND ct2.ct auswählen, nicht zweimal die gleiche Datei.",
+    "collectionsList_backUpErrorWrong": "Falsche Datei. Datei muss ct1.ct oder ct2.ct heißen.",
+    "collectionsList_backUpSaveNoPermission": "Sie haben keine Rechte um den BackUp zu speichern.",
+    "collectionsList_backUpSaveNoPath": "Dieser Pfad ist nicht vorhanden.",
+    
+    "settings_appBarTitle": "Einstellungen",
+    "settings_helpCenter": "Hilfe - Center",
+    "settings_dailyFavourite": "Tägliches Favoriten Objekt:",
+    "settings_biggerFont": "Größere Schrift:",
+    "settings_placeHolder": "Einstellungen 1",
+    "settings_selectLanguage": "Sprache auswählen:",
+    "settings_selectTheme": "Design auswählen:",
+    "settings_creators": "App erstellt von @sehirsig und @TobiMohr (Github)",
+    "settings_twitter": "Finde uns auf Twitter @CollecTrackApp",
+    "settings_version": "v1.0.0",
+
+    "helpCenter_appBarTitle": "Hilfe - Center",
+    "helpCenter_howNewCollectionTitle": "Wie erstelle ich eine neue Sammlung?",
+    "helpCenter_howNewCollectionText": "Indem Sie auf das + Symbol in der Menüleiste Sammlungen klicken, navigierien Sie zur Sammlungen erstellen Seite. Klicken Sie auf Sammlung speichern wenn sie mit dem erstellen fertig sind.",
+    "helpCenter_howBackupSaveCollectionTitle": "Wie kann ich ein Backup meiner Sammlungen speichern?",
+    "helpCenter_howBackupSaveCollectionText": "Indem Sie auf das Menüsymbol Sammlungen klicken und dort links unten auf das Speicher Symbol tippen. Dort wählen Sie Exportieren und suchen einen Ordner aus, auf dem die zwei BackUp Dateien ct1.ct und ct2.ct gespeichert werden. Dies können Sie in einer Cloud oder ihrem Gerät.",
+    "helpCenter_howBackupLoadCollectionTitle": "Wie kann ich ein Backup meiner Sammlungen laden?",
+    "helpCenter_howBackupLoadCollectionText": "Indem Sie auf das Menüsymbol Sammlungen klicken und dort links unten auf das Speicher Symbol tippen. Dort wählen Sie Importieren. Jetzt müssen Sie einmal die ct1.ct und die ct2.ct Datei nacheinander auswählen. Haben Sie dies gemacht ist Ihre Sammlung geladen.",  
+    "helpCenter_howNewObjectTitle": "Wie kann ich ein neues Objekt meiner Sammlung hinzufügen?",
+    "helpCenter_howNewObjectText": "Sie gehen zu ihrer Sammlung in der Sie ein neues Objekt hinzufügen möchten und klicken auf das + Symbol rechts unten.",
+    "helpCenter_howEditTitle": "Wie kann ich meine Sammlung oder mein Objekt bearbeiten?",
+    "helpCenter_howEditText": "Indem Sie auf der Listen-Ansicht der Sammlungen / Objekte länger auf Ihr zu bearbeiten gewünschten Artikel Ihren Finger halten. Nachdem wird sich ein Dialog-Fenster öffnen.",
+
+    "collectionCreate_appBarTitle": "Erstellen",
+    "collectionCreate_collectionName": "Sammlungsname",
+    "collectionCreate_description": "Sammlungsbeschreibung",
+    "collectionCreate_configure": "Konfigurierte Kategorien",
+    "collectionCreate_condition": "Zustand",
+    "collectionCreate_material": "Material",
+    "collectionCreate_country": "Land",
+    "collectionCreate_weight": "Gewicht",
+    "collectionCreate_year": "Erscheinungsjahr",
+    "collectionCreate_uploadImage": "Bild hochladen",
+    "collectionCreate_save": "Sammlung speichern",
+    "collectionCreate_imageDialogTitle": "Bild hochladen",
+    "collectionCreate_imageDialogCamera": "Kamera",
+    "collectionCreate_imageDialogGallery": "Gallerie",
+    "collectionCreate_imageDialogCancel": "Abbrechen",
+
+    "collectionEdit_appBarTitle": "Bearbeiten",
+    "collectionEdit_collectionName": "Sammlungsname",
+    "collectionEdit_description": "Sammlungsbeschreibung",
+    "collectionEdit_configure": "Konfigurierte Kategorien",
+    "collectionEdit_condition": "Zustand",
+    "collectionEdit_material": "Material",
+    "collectionEdit_country": "Land",
+    "collectionEdit_weight": "Gewicht",
+    "collectionEdit_year": "Erscheinungsjahr",
+    "collectionEdit_uploadImage": "Bild hochladen",
+    "collectionEdit_save": "Änderungen speichern",
+    "collectionEdit_deleteTitle": "Bestätigung",
+    "collectionEdit_deleteText": "Wollen sie Diese Sammlung wirklich löschen?\nAlle Objekte werden gelöscht.",
+    "collectionEdit_deleteYes": "Ja",
+    "collectionEdit_deleteNo": "Abbrechen",
+    "collectionEdit_imageDialogTitle": "Bild hochladen",
+    "collectionEdit_imageDialogCamera": "Kamera",
+    "collectionEdit_imageDialogGallery": "Gallerie",
+    "collectionEdit_imageDialogCancel": "Abbrechen",
+
+    "collection_value": "Wert: {value} €",
+    "@collection_value": {
+        "description": "Gesamtkosten einer Sammlung",
+        "placeholders": {
+            "value": {
+                "type": "String"
+            }
+        }
+    },
+    "collection_count": "Anzahl: {count}",
+    "@collection_count": {
+        "description": "Anzahl aller Objekte in einer Sammlung",
+        "placeholders": {
+            "count": {
+                "type": "String"
+            }
+        }
+    },
+    "collection_moreInfoSmall": "Mehr Info",
+    "collection_moreInfoBig": "Mehr Informationen",
+    "collection_filter": "Filter",
+    "collection_filterSearch": "Suchen ..",
+    "collecton_objectName": "Name:",
+    "collection_objectValue": "Wert:",
+    "collection_favourite": "Favorit:",
+    "collection_description": "Beschreibung",
+    "collection_picture": "Bild",
+    "collection_condition": "Zustand",
+    "collection_material": "Material",
+    "collection_country": "Land",
+    "collection_weight": "Gewicht (in kg)",
+    "collection_year": "Erscheinungsjahr",
+    "collection_socialTitle": "Mit Social Media teilen",
+    "collection_socialMSG": "Schau dir meine Sammlung an! Von der @CollecTrackApp\nName: {title}\nBeschreibung: {desc}\nWert: {value}€",
+    "@collection_socialMSG": {
+        "description": "Anzahl aller Objekte in einer Sammlung",
+        "placeholders": {
+            "title": {
+                "type": "String"
+            },
+            "desc": {
+                "type": "String"
+            },
+            "value": {
+                "type": "String"
+            }
+        }
+    },
+    "collection_socialShare": "Teilen",
+    "collection_socialClose": "Abbrechen",
+    "collection_editTitle": "Objekt bearbeiten",
+    "collection_editEdit": "Bearbeiten",
+    "collection_editDelete": "Löschen",
+    "collection_deleteTitle": "Bestätigung",
+    "collection_deleteText": "Wollen Sie das Objekt wirklich löschen?",
+    "collection_deleteYes": "Ja",
+    "collection_deleteNo": "Abbrechen",
+    "collection_empty": "Diese Sammlung ist leer!",
+    "collection_exampleName": "Beispielsammlung",
+    "collection_exampleDesc": "Beispielbeschreibung",
+
+    "collectionFilter_appBarTitle": "Filter",
+    "collectionFilter_editFilter": "Filter anpassen:",
+    "collectionFilter_newFirst": "Neuste zuerst",
+    "collectionFilter_oldFirst": "Älteste zuerst",
+    "collectionFilter_expensiveFirst": "Teuerste zuerst",
+    "collectionFilter_cheapestFirst": "Billigste zuerst",
+    "collectionFilter_onlyFavourites": "Nur Favoriten anzeigen",
+    "collectionFilter_minValue": "Min. Wert:",
+    "collectionFilter_beforeDate": "Vor diesem Datum:",
+    "collectionFilter_selectDate": "Datum auswählen",
+    "collectionFilter_material": "Material",
+    "collectionFilter_country": "Land",
+    "collectionFilter_weight": "Gewicht (in kg)",
+    "collectionFilter_year": "Erscheinungsjahr",
+    "collectionFilter_useFilter": "Filter anwenden",
+    "collectionFilter_kg": "kg",
+    "collectionFilter_kgUntil": "kg bis  ",
+    "collectionFilter_createCollection": "Untersammlung erstellen",
+    "collectionFilter_SubcollectionName": "Name der Untersammlung",
+    "collectionFilter_Cancel": "Abbrechen",
+    "collectionFilter_TitleFiller": "-kopie",
+
+    "objectCreate_appBarTitle": "Objekt erstellen",
+    "objectCreate_objectName": "Objektname",
+    "objectCreate_description": "Objektbeschreibung",
+    "objectCreate_value": "Wert (in €)",
+    "objectCreate_obtained": "Im Besitz seit",
+    "objectCreate_chooseDate": "Datum",
+    "objectCreate_favourite": "Favorit",
+    "objectCreate_condition": "Zustand(0-10)",
+    "objectCreate_material": "Material",
+    "objectCreate_country": "Land",
+    "objectCreate_weight": "Gewicht (in kg)",
+    "objectCreate_year": "Jahrgang",
+    "objectCreate_uploadImage": "Bild hochladen",
+    "objectCreate_saveObject": "Objekt speichern",
+    "objectCreate_imageDialogTitle": "Bild hochladen",
+    "objectCreate_imageDialogCamera": "Kamera",
+    "objectCreate_imageDialogGallery": "Gallerie",
+    "objectCreate_imageDialogCancel": "Abbrechen",
+
+    "object_value": "Wert:",
+    "object_obtained": "Im Besitz seit:",
+    "object_description": "Beschreibung",
+    "object_condition": "Zustand",
+    "object_material": "Material",
+    "object_country": "Land",
+    "object_weight": "Gewicht (in kg)",
+    "object_year": "Erscheinungsjahr",
+    "object_euro": "{value} €",
+    "@object_euro": {
+        "description": "Kosten eines Objekts",
+        "placeholders": {
+            "value": {
+                "type": "String"
+            }
+        }
+    },
+
+    "objectEdit_appBarTitle": "Bearbeiten",
+    "objectEdit_objectName": "Objektname",
+    "objectEdit_description": "Objektbeschreibung",
+    "objectEdit_value": "Wert (in €)",
+    "objectEdit_obtained": "Im Besitz seit",
+    "objectEdit_chooseDate": "Datum auswählen",
+    "objectEdit_favourite": "Favorit",
+    "objectEdit_condition": "Zustand(0-10)",
+    "objectEdit_material": "Material",
+    "objectEdit_country": "Land",
+    "objectEdit_weight": "Gewicht (in kg)",
+    "objectEdit_year": "Jahrgang",
+    "objectEdit_uploadImage": "Bild hochladen",
+    "objectEdit_saveObject": "Änderung speichern",
+    "objectEdit_deleteTitle": "Bestätigung",
+    "objectEdit_deleteText": "Wollen Sie das Objekt wirklich löschen?",
+    "objectEdit_deleteYes": "Ja",
+    "objectEdit_deleteNo": "Abbrechen",
+    "objectEdit_imageDialogTitle": "Bild hochladen",
+    "objectEdit_imageDialogCamera": "Kamera",
+    "objectEdit_imageDialogGallery": "Gallerie",
+    "objectEdit_imageDialogCancel": "Abbrechen",
+
+    "dbObject_deleteTitle": "Bestätigung",
+    "dbObject_deleteText": "Wollen Sie das Objekt wirklich löschen?",
+    "dbObject_deleteYes": "Ja",
+    "dbObject_deleteNo": "Abbrechen",
+    "dbObject_editTitle": "Objekt bearbeiten",
+    "dbObject_editText": "Bearbeiten",
+    "dbObject_editDelete": "Löschen",
+    "dbObject_name": "Name:",
+    "dbObject_favourite": "Favorit:",
+    "dbObject_value": "Wert: {value} €",
+    "@dbObject_value": {
+        "description": "Kosten eines Objekts in Scheibe",
+        "placeholders": {
+            "value": {
+                "type": "String"
+            }
+        }
+    },
+    "dbObject_cancel": "Abbrechen",
+
+    "dbCollection_deleteTitle": "Bestätigung",
+    "dbCollection_deleteText": "Wollen Sie diese Sammlung wirklich löschen?\nAlle Objekte werden gelöscht.",
+    "dbCollection_deleteYes": "Ja",
+    "dbCollection_deleteNo": "Abbrechen",
+    "dbCollection_editTitle": "Sammlung bearbeiten",
+    "dbCollection_editText": "Bearbeiten",
+    "dbCollection_editDelete": "Löschen",
+    "dbCollection_name": "Name:",
+    "dbCollection_cancel": "Abbrechen"
+}
