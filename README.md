@@ -19,4 +19,4 @@ unterwegs, schnell und einfach erlaubt Sammlungen zu Organisieren und den Überb
 
 ## Authoren 
 # [@sehirsig ](https://github.com/sehirsig)| HTWG
-# [TobiMohr](https://github.com/TobiMohr) | HWTG
+# [@TobiMohr](https://github.com/TobiMohr) | HWTG
