@@ -1,6 +1,6 @@
 # Gruppe 10 - CollecTrack
 
-![logo](https://gitlab.in.htwg-konstanz.de/-/ide/project/mobile-anwendungen-ss221/gruppe-10/tree/development/-/logo_5000x5000.png/ "ConnecTrack Logo")
+![logo](https://github.com/sehirsig/collectrack/blob/main/logo_5000x5000.png "ConnecTrack Logo")
 
 ## Problem Statement
 
@@ -18,5 +18,5 @@ Wir wollen eine mobile und intuitive-nutzbare Applikation mit Datenbank für Sam
 unterwegs, schnell und einfach erlaubt Sammlungen zu Organisieren und den Überblick über diese zu behalten.
 
 ## Authoren 
-# Sebastian Hirsig | 5. Semester AIN
-# Tobias Mohr | 5. Semester AIN
+# [@sehirsig ](https://github.com/sehirsig)| HTWG
+# [@TobiMohr](https://github.com/TobiMohr) | HWTG
