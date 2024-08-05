@@ -20,3 +20,9 @@ unterwegs, schnell und einfach erlaubt Sammlungen zu Organisieren und den Überb
 ## Authoren 
 # [@sehirsig ](https://github.com/sehirsig)| HTWG
 # [@TobiMohr](https://github.com/TobiMohr) | HWTG
+
+
+# How to build
+1. Delete pubspec.lock
+2. flutter clean
+3. flutter pub get

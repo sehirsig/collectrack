@@ -56,7 +56,7 @@ android {
 
     defaultConfig {
         applicationId "com.sehirsig.collectrack"
-        minSdkVersion 34 // flutter.minSdkVersion // Set to 34 as of 31st August 2024
+        minSdkVersion flutter.minSdkVersion
         targetSdkVersion 34 // flutter.targetSdkVersion // Set to 34 as of 31st August 2024
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
